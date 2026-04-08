@@ -1,9 +1,9 @@
-﻿version: 2.3.7
+﻿version: 2.3.8
 files:
-  - url: 微信公众号文章导出工具 Setup 2.3.zip.001.zip
-    sha512: L5cZwfym1tAFkT0ZHV0cUCc1Dz2QQ8KEvUeKrj5rAq9o4Dny3qEkudRJ4mDBKL4D0qswuyuyZkmsF5A6HjZKZA==
-  - url: 微信公众号文章导出工具 Setup 2.3.zip.002.zip
-    sha512: aEu1fIz5AEmGf+D0kzkMX0EH0o9u0IYClJ4gWI4qJiW9cmONlFeBg/1V29UdellXXt4C6jdqeZCNTsFGEdow4A==
-path: 微信公众号文章导出工具 Setup 2.3.zip.001.zip
-releaseDate: '2026-04-07T10:42:40.588Z'
+  - url: 微信公众号文章导出工具 Setup 2.3.8.zip.001.zip
+    sha512: Ye/oQsPRhVorTuGZpra6A6HweK2uqlSDcyKWlxCcRinRJ+s7k5eJwMEaHdnVKa6lgo8XQVWQRkJiW7qXVl9JsA==
+  - url: 微信公众号文章导出工具 Setup 2.3.8.zip.002.zip
+    sha512: AcQz2z9HmDplR0mFCclR8zEwy2wN0tZCeDuKl01gcoz4bvfFmggwBEuNJqKuloxRYzi66/zpT4FqOyD3Z3KkNg==
+path: 微信公众号文章导出工具 Setup 2.3.8.zip.001.zip
+releaseDate: '2026-04-08T02:51:22.543Z'
 downloadUrl: 'https://wemark.lanzouq.com/b01889aiqh'
