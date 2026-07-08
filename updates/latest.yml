@@ -1,17 +1,11 @@
-﻿version: 2.3.7
+﻿version: 2.4.1
 files:
-  - url: 微信公众号文章导出工具 Setup 2.3.8.zip.001.zip
-    sha512: Ye/oQsPRhVorTuGZpra6A6HweK2uqlSDcyKWlxCcRinRJ+s7k5eJwMEaHdnVKa6lgo8XQVWQRkJiW7qXVl9JsA==
-  - url: 微信公众号文章导出工具 Setup 2.3.8.zip.002.zip
-    sha512: AcQz2z9HmDplR0mFCclR8zEwy2wN0tZCeDuKl01gcoz4bvfFmggwBEuNJqKuloxRYzi66/zpT4FqOyD3Z3KkNg==
-path: 微信公众号文章导出工具 Setup 2.3.8.zip.001.zip
-releaseDate: '2026-04-08T02:51:22.543Z'
-downloadUrl: 'https://wemark.lanzouq.com/b01889aiqh'
+  - url: 微信公众号文章导出工具 Setup 2.4.1.exe
+    sha512: 8xwk0lHPYxL/BoLnTWpQgn4QnghmhHTHSaNRSha1Y3qeGuj1KU48uHR5iVEEhnLpDG0c+EyoHIGH36tbteTK0Q==
+path: 微信公众号文章导出工具 Setup 2.4.1.exe
+sha512: 8xwk0lHPYxL/BoLnTWpQgn4QnghmhHTHSaNRSha1Y3qeGuj1KU48uHR5iVEEhnLpDG0c+EyoHIGH36tbteTK0Q==
+releaseDate: '2026-07-08T00:29:06.634Z'
+downloadUrl: 'https://release.caizhidao.cc/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E6%96%87%E7%AB%A0%E5%AF%BC%E5%87%BA%E5%B7%A5%E5%85%B7%20Setup%202.4.1.exe'
 releaseNotes: |
-  文件打开密码caizhidao
-  下载后去掉所有包后缀名.zip，类似微信公众号文章导出工具Setup.zip.001是正确的
-  全部去掉之后，打开001这个包，里面有Setup.exe，解压后双击打开即可安装
-  v2.3.7 更新内容：
-  - 修复了自动更新无法打开蓝奏云下载页面的问题
-  - 优化了版本检测逻辑
-  - 提升了用户体验
+  v2.4.1 更新内容：
+  - 修复了文章评论获取的功能

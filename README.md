@@ -10,7 +10,7 @@
 > **一款基于 MITM + Nuxt 3 + Electron 的微信公众号内容抓取与导出工具**  
 > 支持 HTML/JSON/Excel/TXT 多格式导出，100% 还原文章排版，批量获取阅读量、评论等运营数据
 
-💬 欢迎交流：[才哥主页](https://www.caizhidao.cc)
+💬 欢迎交流：[炮哥主页](https://www.caizhidao.cc)
 
 ### 🌐 多端部署方案
 - **桌面应用** - Electron 跨平台打包 (Windows/macOS/Linux)
