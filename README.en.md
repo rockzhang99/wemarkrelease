@@ -1,5 +1,7 @@
 # WeMark - WeChat Official Account Article Export Tool 🚀
 
+<p align="right"><a href="README.md">简体中文</a> | <strong>English</strong></p>
+
 [![Version](https://img.shields.io/github/v/release/wechat-article/wemark?style=flat-square&logo=github)](https://github.com/wechat-article/wemark/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D22-brightgreen?style=flat-square&logo=node.js)](https://nodejs.org/)
@@ -17,6 +19,14 @@
 - **Web Service** - Nuxt SSR/SSG static deployment
 - **Docker Container** - One-click startup, out-of-the-box
 - **Cloudflare Workers** - Serverless edge computing deployment
+
+---
+
+## 🎬 Product Roadshow Video
+
+📺 **[Wemark 7-Month Product Roadshow Video - Bilibili](https://b23.tv/2klsdNk)**
+
+> A record of Wemark's 7-month journey from 0 to 1. Click to watch.
 
 ---
 
@@ -120,3 +130,20 @@ Enter the official account name or keyword in the search box, and the system wil
 3. Check the articles to export
 4. Choose export format (HTML recommended to preserve complete styles)
 5. Click "Start Download"
+
+---
+
+## 💡 Wemark Product Insights
+
+1. **Auto Update Check on Desktop** — Automatically checks for the latest version on startup, so you always get the newest features first.
+2. **One-Click Comment Scraping** — The most complex comment-scraping feature now offers one-click install and one-click launch, saying goodbye to tedious setup steps.
+3. **Seamless Data Migration** — The most satisfying data migration feature: data downloaded on machine A can continue to be used on another machine.
+
+---
+
+## 💬 Community & Feedback
+
+- **QQ Group**: 166710269
+- **Author Homepage**: [Cai Ge's Homepage](https://www.caizhidao.cc)
+
+Feel free to join the group to share your experience and suggest new features!

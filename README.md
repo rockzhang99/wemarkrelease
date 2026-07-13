@@ -1,5 +1,7 @@
 # WeMark - 微信公众号文章导出神器 🚀
 
+<p align="right"><strong>简体中文</strong> | <a href="README.en.md">English</a></p>
+
 [![Version](https://img.shields.io/github/v/release/wechat-article/wemark?style=flat-square&logo=github)](https://github.com/wechat-article/wemark/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D22-brightgreen?style=flat-square&logo=node.js)](https://nodejs.org/)
@@ -17,6 +19,14 @@
 - **Web 服务** - Nuxt SSR/SSG 静态部署
 - **Docker 容器** - 一键启动，开箱即用
 - **Cloudflare Workers** - Serverless 边缘计算部署
+
+---
+
+## 🎬 产品路演视频
+
+📺 **[Wemark 产品 7 个月路演视频 - 哔哩哔哩](https://b23.tv/2klsdNk)**
+
+> 记录 Wemark 从 0 到 1 的 7 个月成长历程，欢迎点击观看。
 
 ---
 
@@ -121,3 +131,20 @@
 3. 勾选需要导出的文章
 4. 选择导出格式（推荐 HTML 以保留完整样式）
 5. 点击「开始下载」
+
+---
+
+## 💡 Wemark 产品心得
+
+1. **桌面端自动检查更新** —— 启动时自动检查版本是否为最新，第一时间用上新功能。
+2. **一键抓取评论** —— 最复杂的评论抓取功能，做到一键安装、一键启动，告别繁琐的安装步骤。
+3. **数据自由迁移** —— 最满意的数据迁移功能，A 机器下载的数据，换台机器也能接着用。
+
+---
+
+## 💬 交流与反馈
+
+- **QQ 交流群**：166710269
+- **作者主页**：[炮哥主页](https://www.caizhidao.cc)
+
+欢迎加入交流群，一起讨论使用心得与新功能建议！
