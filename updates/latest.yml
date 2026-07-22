@@ -5,7 +5,7 @@ files:
 path: 微信公众号文章导出工具 Setup 3.0.0.exe
 sha512: sPbTXhqax7sMsp4lurizvtoym3eZ/j3ECH9k8r9O4OxqtoDOLIrrde7gyyVYXcXnartfb1U33yGPIUzw+3zZhQ==
 releaseDate: '2026-07-22T05:59:45.600Z'
-downloadUrl: 'https://release.caizhidao.cc/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E6%96%87%E7%AB%A0%E5%AF%BC%E5%87%BA%E5%B7%A5%E5%85%B7%20Setup%203.0.0.exe'
+downloadUrl: 'https://release.caizhidao.cc/WemarkSetup3.0.0.exe'
 releaseNotes: |
   v3.0.0 更新内容：
   - 实现同步范围配置支持按文章条数模式（默认100篇）
