@@ -1,11 +1,18 @@
-﻿version: 2.4.3
+﻿version: 3.0.0
 files:
-  - url: 微信公众号文章导出工具 Setup 2.4.3.exe
-    sha512: hrMi3BMVM4XykAL52Lu9djH+UWYtvj03T/wo+HDdFVK8k+ODU+z18Gd2NlUX/BlAmkhZvaTmUjjZuO9YUuI4bA==
-path: 微信公众号文章导出工具 Setup 2.4.3.exe
-sha512: hrMi3BMVM4XykAL52Lu9djH+UWYtvj03T/wo+HDdFVK8k+ODU+z18Gd2NlUX/BlAmkhZvaTmUjjZuO9YUuI4bA==
-releaseDate: '2026-07-13T06:50:22.489Z'
-downloadUrl: 'https://release.caizhidao.cc/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E6%96%87%E7%AB%A0%E5%AF%BC%E5%87%BA%E5%B7%A5%E5%85%B7%20Setup%202.4.3.exe'
+  - url: 微信公众号文章导出工具 Setup 3.0.0.exe
+    sha512: sPbTXhqax7sMsp4lurizvtoym3eZ/j3ECH9k8r9O4OxqtoDOLIrrde7gyyVYXcXnartfb1U33yGPIUzw+3zZhQ==
+path: 微信公众号文章导出工具 Setup 3.0.0.exe
+sha512: sPbTXhqax7sMsp4lurizvtoym3eZ/j3ECH9k8r9O4OxqtoDOLIrrde7gyyVYXcXnartfb1U33yGPIUzw+3zZhQ==
+releaseDate: '2026-07-22T05:59:45.600Z'
+downloadUrl: 'https://release.caizhidao.cc/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E6%96%87%E7%AB%A0%E5%AF%BC%E5%87%BA%E5%B7%A5%E5%85%B7%20Setup%203.0.0.exe'
 releaseNotes: |
-  v2.4.3 更新内容：
-  - 修复了文章评论导出的健壮性
+  v3.0.0 更新内容：
+  - 实现同步范围配置支持按文章条数模式（默认100篇）
+  - 添加全局同步状态用于菜单切换拦截功能
+  - 重构同步逻辑支持按条数模式停止加载
+  - 添加软删除和硬删除文章功能及对应UI操作
+  - 优化配额管理支持阅读量和留言每日限制
+  - 实现按公众号批量导出功能
+  - 添加同步进度显示和状态管理
+  - 优化文章统计字段及数据显示逻辑  
