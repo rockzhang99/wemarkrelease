@@ -1,16 +1,14 @@
-﻿version: 3.0.1
+﻿version: 3.0.2
 files:
-  - url: 微信公众号文章导出工具 Setup 3.0.1.exe
-    sha512: jTK7znVAjI5zBDLjQenSFPzngQ1vOkpSagMEIRIAzKUZ1BcZ471SA6VQ5zTc78hp2YILHKJ0KYksvxi0/AUtlg==
-path: 微信公众号文章导出工具 Setup 3.0.1.exe
-sha512: jTK7znVAjI5zBDLjQenSFPzngQ1vOkpSagMEIRIAzKUZ1BcZ471SA6VQ5zTc78hp2YILHKJ0KYksvxi0/AUtlg==
-releaseDate: '2026-07-29T05:00:49.255Z'
-downloadUrl: 'https://release.caizhidao.cc/WemarkSetup3.0.1.exe'
+  - url: 微信公众号文章导出工具 Setup 3.0.2.exe
+    sha512: rlOE+TrUm1s/tk9egRY3hH65Et9lvLRP8sQTxjtCnFhMmZbnmLrVG8pHqS9nTeTlD0oG9FfCgCcT6tPSWJeiTg==
+path: 微信公众号文章导出工具 Setup 3.0.2.exe
+sha512: rlOE+TrUm1s/tk9egRY3hH65Et9lvLRP8sQTxjtCnFhMmZbnmLrVG8pHqS9nTeTlD0oG9FfCgCcT6tPSWJeiTg==
+releaseDate: '2026-07-29T10:43:07.230Z'
+downloadUrl: 'https://release.caizhidao.cc/WemarkSetup3.0.2.exe'
 releaseNotes: |
-  v3.0.1 更新内容：
-  - 下载器返回状态信息，仅扣除成功条目的额度，失败条目不计入每日配额
-  - 阅读量和留言抓取完成后显示实际消耗数量和失败统计
-  - 凭证管理页面添加有效期提示，说明appmsg_token时效性及处理方法
-  - 更新mitmproxy配置，强制TLS1.2最低版本提高握手兼容性
-  - 提取并保存appmsg_token用于评论接口调用
-  - 软件说明页面更新客服政策和凭证失效处理说明
+  v3.0.2 更新内容：
+  - 添加凭证过期标记机制，当API返回业务错误时自动标记凭证失效
+  - 实现评论和评论回复获取失败时的凭证过期处理逻辑
+  - 新增空内容文章检测功能，避免导出仅有标题的空HTML文件
+  - 移除credentials.json中的敏感凭证数据
